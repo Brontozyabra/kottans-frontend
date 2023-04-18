@@ -1,3 +1,7 @@
+## Git та GitHub
+Лекції Coursera просто пояснюють, як використовувати Git
+
+
 ## Linux CLI, and HTTP
 Linux Survival (4 modules)
 <p> Quiz 1 https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg </p>
