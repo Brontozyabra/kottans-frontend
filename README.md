@@ -1,5 +1,5 @@
 ## Git та GitHub
-Лекції Coursera просто пояснюють, як використовувати Git
+Лекції Coursera та learngitbranching.js.org просто пояснюють, як використовувати Git
 
 
 ## Linux CLI, and HTTP
