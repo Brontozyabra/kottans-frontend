@@ -8,3 +8,11 @@ Linux Survival (4 modules)
 <p> Quiz 2 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr02.jpg">
 <p> Quiz 3 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr03.jpg">
 <p> Quiz 4 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr04.jpg">
+
+## Git Collaboration
+learngitbranching.js.org:
+Основи: Переміщуємо роботу туди-сюди
+<img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/1111.JPG?raw=true">
+
+ Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
+<img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/3333.JPG?raw=true">
