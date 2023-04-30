@@ -19,3 +19,6 @@ learngitbranching.js.org:
 
  ## Intro to HTML and CSS
  
+<p> Quiz 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.jpg">
+<p> Quiz 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.1.jpg">
+<p> Quiz 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week%202.1.jpg">
