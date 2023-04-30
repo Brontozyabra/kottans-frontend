@@ -6,22 +6,22 @@
 Linux Survival (4 modules)
  <details>
   <summary>Quiz 1</summary>
-  <p> Week 1 <img src="img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg"></p>
+  <p> <img src="img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg?raw=true"></p>
 </details>
 
  <details>
   <summary>Quiz 2</summary>
-  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr02.jpg"></p>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr02.jpg"></p>
 </details>
 
  <details>
   <summary>Quiz 3</summary>
-  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr03.jpg"></p>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr03.jpg"></p>
 </details>
 
  <details>
   <summary>Quiz 4</summary>
-  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr04.jpg"></p>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr04.jpg"></p>
 </details>
 
 ## Git Collaboration
@@ -34,11 +34,14 @@ learngitbranching.js.org:
 
  ## Intro to HTML and CSS
  
-<p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.jpg">
-<p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.1.jpg">
-<p> Week 2 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week%202.1.jpg">
-
  <details>
-  <summary>Легенда</summary>
-  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.jpg"></p>
+  <summary>Week 1</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.jpg">
+   <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.1.jpg">
+   </p>
 </details>
+   
+  <details>
+  <summary>Week 2</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week%202.1.jpg"></p>
+</details> 
