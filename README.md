@@ -6,7 +6,7 @@
 Linux Survival (4 modules)
  <details>
   <summary>Quiz 1</summary>
-  <p> <img src="img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg?raw=true"></p>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg?raw=true"></p>
 </details>
 
  <details>
