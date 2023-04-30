@@ -26,11 +26,15 @@ Linux Survival (4 modules)
 
 ## Git Collaboration
 learngitbranching.js.org:
-Основи: Переміщуємо роботу туди-сюди
-<img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/1111.JPG?raw=true">
+<details>
+  <summary>Основи: Переміщуємо роботу туди-сюди</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/1111.JPG?raw=true"></p>
+</details>
 
- Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
-<img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/3333.JPG?raw=true">
+ <details>
+  <summary>Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/3333.JPG?raw=true"></p>
+</details>
 
  ## Intro to HTML and CSS
  
