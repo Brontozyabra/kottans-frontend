@@ -22,3 +22,8 @@ learngitbranching.js.org:
 <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.jpg">
 <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.1.jpg">
 <p> Week 2 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week%202.1.jpg">
+
+ <details>
+  <summary>Легенда</summary>
+  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week1.jpg"></p>
+</details>
