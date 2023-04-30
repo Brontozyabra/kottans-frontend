@@ -4,10 +4,25 @@
 
 ## Linux CLI, and HTTP
 Linux Survival (4 modules)
-<p> Quiz 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg">
-<p> Quiz 2 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr02.jpg">
-<p> Quiz 3 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr03.jpg">
-<p> Quiz 4 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr04.jpg">
+ <details>
+  <summary>Quiz 1</summary>
+  <p> Week 1 <img src="img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr01.jpg"></p>
+</details>
+
+ <details>
+  <summary>Quiz 2</summary>
+  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr02.jpg"></p>
+</details>
+
+ <details>
+  <summary>Quiz 3</summary>
+  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr03.jpg"></p>
+</details>
+
+ <details>
+  <summary>Quiz 4</summary>
+  <p> Week 1 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_linux_cli/scr04.jpg"></p>
+</details>
 
 ## Git Collaboration
 learngitbranching.js.org:
