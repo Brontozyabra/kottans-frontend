@@ -16,3 +16,6 @@ learngitbranching.js.org:
 
  Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
 <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_git_collaboration/3333.JPG?raw=true">
+
+ ## Intro to HTML and CSS
+ 
