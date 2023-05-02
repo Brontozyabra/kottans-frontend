@@ -49,3 +49,15 @@ learngitbranching.js.org:
   <summary>Week 2</summary>
   <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/week%202.1.jpg"></p>
 </details> 
+
+<details>
+  <summary>Learn HTML Codecademy</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/htmlcodeacademy.JPG?raw=true">
+   </p>
+</details>
+
+<details>
+  <summary>Learn CSS Codecademy</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/csscodeacademy.JPG?raw=true">
+   </p>
+</details>
