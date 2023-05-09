@@ -61,3 +61,11 @@ learngitbranching.js.org:
   <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_html_css_intro/csscodeacademy.JPG?raw=true">
    </p>
 </details>
+
+## Responsive Web Design
+
+<details>
+  <summary>Flexbox Froggy</summary>
+  <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_responsive_web_design/flexbox%20froggy.jpg?raw=true">
+   </p>
+</details>
