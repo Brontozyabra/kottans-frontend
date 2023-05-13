@@ -72,7 +72,7 @@ learngitbranching.js.org:
 
 
 <details>
-  <summary>Flexbox Froggy</summary>
+  <summary>Grid Garden</summary>
   <p> <img src="https://github.com/Brontozyabra/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.jpg?raw=true">
    </p>
 </details>
